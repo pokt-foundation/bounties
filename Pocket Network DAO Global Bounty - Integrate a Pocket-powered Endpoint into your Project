@@ -1,0 +1,60 @@
+### Pocket Network - Integrate an RPC Endpoint Minted from the Pocket Portal into your Project
+
+### Prize Bounty
+
+1000 DAI split between the top 10 projects (100 each)
+
+### Challenge Description
+
+Every DApp needs blockchain data. Pocket Network provides the full spectrum of blockchain data in a decentralized, censorship-resistant manner. The [Pocket Portal](https://bit.ly/PocketPortal_SignUp) makes it easy to mint an RPC endpoint for any of the blockchains Pocket supports in just a few clicks.
+
+These are the networks available within the [Pocket Portal](https://bit.ly/PocketPortal_SignUp) to use in your application:
+- Avalanche
+- Binance Smart Chain
+- Ethereum Mainnet
+- Ethereum Mainnet Archival (with Tracing)
+- Fuse
+- Ethereum Goerli
+- Harmony Shard 0
+- Polygon Matic
+- Polygon Matic Archival
+- Ethereum Rinkeby
+- Ethereum Ropsten
+- Solana
+- xDai
+- xDai Archival
+- Binance Smart Chain (Archival)
+- Ethereum Kovan
+
+We want you to use Pocket Network as your decentralized blockchain data provider for any of the blockchains listed above.
+
+### Submission Requirements
+
+- Mint an RPC Endpoint for your desired blockchain network from the [Pocket Portal](https://bit.ly/PocketPortal_SignUp)
+- Integrate the RPC Endpoint into your DApp
+- Demonstrate usage
+- Code should be available for the Pocket judge to review
+- Demo or Demo Video strongly recommended
+
+### Judging Criteria
+
+1. Integrates an RPC Endpoint minted from the [Pocket Portal](https://bit.ly/PocketPortal_SignUp)
+2. Creativity of the DApp
+3. Utility of the DApp
+
+The top 10 projects by these measures will win 100 DAI each.
+
+### Deadline for Submissions 
+
+12th Nov
+
+### Winner Announcement Date
+
+15th Nov
+
+### Resources
+
+- Mint an RPC Endpoint from the [Pocket Portal](https://bit.ly/PocketPortal_SignUp)
+- Here's a [quick setup guide on how to use the Pocket Portal](https://docs.pokt.network/home/paths/app-developer)
+- Here's a [video walkthrough of the Pocket Portal](https://youtu.be/cULknE1xPR4)
+- Link to our [Discord](https://discord.gg/pokt) 
